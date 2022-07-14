@@ -10,4 +10,6 @@ class Printer
     receipt[:books] = books.map(&:to_h)
     receipt
   end
+
+
 end
