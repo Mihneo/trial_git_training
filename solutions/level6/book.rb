@@ -10,6 +10,11 @@ class Book
     @stock = stock
   end
 
+
+
+
+
+
   def to_h
     { id: @id, title: @title, price: @price, stock: @stock }
   end
