@@ -1,1 +1,1 @@
-# trial_git_training
+# ruby_bookstore

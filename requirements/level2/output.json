@@ -1,0 +1,35 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "War and Peace",
+      "price": 50
+    },
+    {
+      "id": 2,
+      "title": "Don Quixote",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "title": "In Search of Lost Time",
+      "price": 70
+    }
+  ],
+  "cart": {
+    "total": 120,
+    "item_count": 2,
+    "cart_items": [
+      {
+        "id": 1,
+        "title": "War and Peace",
+        "price": 50
+      },
+      {
+        "id": 2,
+        "title": "In Search of Lost Time",
+        "price": 70
+      }
+    ]
+  }
+}

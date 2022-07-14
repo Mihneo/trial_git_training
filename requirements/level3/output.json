@@ -1,0 +1,37 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "War and Peace",
+      "price": 50
+    },
+    {
+      "id": 2,
+      "title": "Animal Farm",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "title": "Les Misérables ",
+      "price": 110
+    }
+  ],
+  "cart": {
+    "total": 260,
+    "item_count": 4,
+    "cart_items": [
+      {
+        "id": 1,
+        "title": "Les Misérables ",
+        "price": 110,
+        "qty": 1
+      },
+      {
+        "id": 2,
+        "title": "War and Peace",
+        "price": 50,
+        "qty": 3
+      }
+    ]
+  }
+}
